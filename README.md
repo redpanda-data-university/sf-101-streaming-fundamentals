@@ -1,4 +1,4 @@
-# SF 101 - Streaming Fundamentals
+# Streaming Fundamentals Course 1: Hand-on With Streaming Fundamentals
 
 This is the repository for the [SF101 - Streaming Fundamentals](https://university.redpanda.com/courses/streaming-fundamentals) course in [Redpanda University](https://university.redpanda.com).
 
